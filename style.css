@@ -14,3 +14,22 @@ p {
     background-color: blue;
     color: white;
 }
+
+#homepage {
+    background-color: #eee;
+    width: 800px;
+    margin: 16px auto;
+    text-align: center;
+    padding: 8px;
+}
+
+#homenav {
+    display: inline-block;
+}
+
+.recipe {
+    display: inline;
+    border: 2px solid blue;
+    padding: 16px;
+    font-size: 22px;
+}
